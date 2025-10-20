@@ -269,9 +269,19 @@
       "amount": 706,
       "description": "Средство для очистки тепловентиляторов Озон",
       "createdAt": "2025-10-20T16:14:59.378Z"
+    },
+    {
+      "id": "1760980578662",
+      "date": "2025-10-01",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 8291.54,
+      "description": "01.10",
+      "createdAt": "2025-10-20T17:16:18.662Z"
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T16:24:30.085Z",
-  "lastSync": "2025-10-20T16:24:30.085Z"
+  "exportDate": "2025-10-20T17:16:19.234Z",
+  "lastSync": "2025-10-20T17:16:19.234Z"
 }

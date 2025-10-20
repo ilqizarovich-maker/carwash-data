@@ -251,6 +251,16 @@
       "createdAt": "2025-10-19T20:10:42.416Z"
     },
     {
+      "id": "1760977470022",
+      "date": "2025-10-06",
+      "type": "expense",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 590,
+      "description": "Средство для уборки боксов Озон",
+      "createdAt": "2025-10-20T16:24:30.022Z"
+    },
+    {
       "id": "1760976899378",
       "date": "2025-10-04",
       "type": "expense",
@@ -262,6 +272,6 @@
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T16:18:19.128Z",
-  "lastSync": "2025-10-20T16:18:19.128Z"
+  "exportDate": "2025-10-20T16:24:30.085Z",
+  "lastSync": "2025-10-20T16:24:30.085Z"
 }

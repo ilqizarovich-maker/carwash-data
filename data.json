@@ -1,0 +1,207 @@
+{
+  "transactions": [
+    {
+      "id": "1760904097916",
+      "date": "2025-10-14",
+      "type": "income",
+      "category": "detailing",
+      "payment": "sultan_akbars",
+      "amount": 22450,
+      "description": "2",
+      "createdAt": "2025-10-19T20:01:37.916Z"
+    },
+    {
+      "id": "1760904040656",
+      "date": "2025-10-14",
+      "type": "income",
+      "category": "detailing",
+      "payment": "chingiz_cash",
+      "amount": 41000,
+      "description": "1",
+      "createdAt": "2025-10-19T20:00:40.656Z"
+    },
+    {
+      "id": "1760904327356",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "detailing",
+      "payment": "sultan_sber",
+      "amount": 17010,
+      "description": "Смарикомплекс",
+      "createdAt": "2025-10-19T20:05:27.356Z"
+    },
+    {
+      "id": "1760904541252",
+      "date": "2025-10-14",
+      "type": "income",
+      "category": "self12",
+      "payment": "sultan_sber_cash",
+      "amount": 110128.32,
+      "description": "1,2",
+      "createdAt": "2025-10-19T20:09:01.252Z"
+    },
+    {
+      "id": "1760904567248",
+      "date": "2025-10-14",
+      "type": "income",
+      "category": "self12",
+      "payment": "chingiz_cash_self",
+      "amount": 9660,
+      "description": "Нал",
+      "createdAt": "2025-10-19T20:09:27.248Z"
+    },
+    {
+      "id": "1760904604540",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "self12",
+      "payment": "sultan_sber_cash",
+      "amount": 9270,
+      "description": "Смарикомплекс",
+      "createdAt": "2025-10-19T20:10:04.540Z"
+    },
+    {
+      "id": "1760904674220",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "self12",
+      "payment": "chingiz_cash_self",
+      "amount": 11250,
+      "description": "Оператор",
+      "createdAt": "2025-10-19T20:11:14.220Z"
+    },
+    {
+      "id": "1760906060517",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "self35",
+      "payment": "chingiz_cash_self",
+      "amount": 11250,
+      "description": "оператор",
+      "createdAt": "2025-10-19T20:34:20.517Z"
+    },
+    {
+      "id": "1760906137032",
+      "date": "2025-10-14",
+      "type": "income",
+      "category": "self35",
+      "payment": "chingiz_cash_self",
+      "amount": 25210,
+      "description": "Наличные",
+      "createdAt": "2025-10-19T20:35:37.032Z"
+    },
+    {
+      "id": "1760906210396",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "self12",
+      "payment": "chingiz_cash_self",
+      "amount": 12500,
+      "description": "ЗП уборка территории",
+      "createdAt": "2025-10-19T20:36:50.396Z"
+    },
+    {
+      "id": "1760904119824",
+      "date": "2025-10-14",
+      "type": "income",
+      "category": "detailing",
+      "payment": "chingiz_card",
+      "amount": 55150,
+      "description": "Переводы",
+      "createdAt": "2025-10-19T20:01:59.824Z"
+    },
+    {
+      "id": "1760904147564",
+      "date": "2025-10-14",
+      "type": "income",
+      "category": "detailing",
+      "payment": "sultan_sber",
+      "amount": 1700,
+      "description": "Яндекс",
+      "createdAt": "2025-10-19T20:02:27.564Z"
+    },
+    {
+      "id": "1760904181260",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "detailing",
+      "payment": "chingiz_cash",
+      "amount": 60150,
+      "description": "ЗП Мойщики",
+      "createdAt": "2025-10-19T20:03:01.260Z"
+    },
+    {
+      "id": "1760904209024",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "detailing",
+      "payment": "chingiz_cash",
+      "amount": 10000,
+      "description": "ЗП менеджер",
+      "createdAt": "2025-10-19T20:03:29.024Z"
+    },
+    {
+      "id": "1760904230712",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "detailing",
+      "payment": "chingiz_card",
+      "amount": 30000,
+      "description": "ЗП Администратор",
+      "createdAt": "2025-10-19T20:03:50.712Z"
+    },
+    {
+      "id": "1760904305996",
+      "date": "2025-10-11",
+      "type": "expense",
+      "category": "detailing",
+      "payment": "sultan_sber",
+      "amount": 5158.7,
+      "description": "Химия ИПГайфуллин",
+      "createdAt": "2025-10-19T20:05:05.996Z"
+    },
+    {
+      "id": "1760904289573",
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "detailing",
+      "payment": "sultan_sber",
+      "amount": 1282,
+      "description": "Химия Вортекс",
+      "createdAt": "2025-10-19T20:04:49.573Z"
+    },
+    {
+      "id": "1760904624276",
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "self12",
+      "payment": "chingiz_cash_self",
+      "amount": 1000,
+      "description": "СМСцентр",
+      "createdAt": "2025-10-19T20:10:24.276Z"
+    },
+    {
+      "id": "1760910540972",
+      "date": "2025-10-08",
+      "type": "expense",
+      "category": "self35",
+      "payment": "chingiz_cash_self",
+      "amount": 4500,
+      "description": "Ремонт ворот 5 бокс",
+      "createdAt": "2025-10-19T21:49:00.972Z"
+    },
+    {
+      "id": "1760904642416",
+      "date": "2025-10-07",
+      "type": "expense",
+      "category": "self12",
+      "payment": "chingiz_cash_self",
+      "amount": 3700,
+      "description": "Соль",
+      "createdAt": "2025-10-19T20:10:42.416Z"
+    }
+  ],
+  "reserveBalance": 0,
+  "exportDate": "2025-10-19T22:32:05.323Z",
+  "lastSync": "2025-10-19T22:32:05.323Z"
+}

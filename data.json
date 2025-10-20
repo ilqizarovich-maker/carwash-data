@@ -229,9 +229,19 @@
       "amount": 54000.04,
       "description": "Электроэнергия от 13.10",
       "createdAt": "2025-10-20T16:04:17.454Z"
+    },
+    {
+      "id": "1760976364338",
+      "date": "2025-10-13",
+      "type": "expense",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 35888,
+      "description": "Электроэнергия 01.10",
+      "createdAt": "2025-10-20T16:06:04.338Z"
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T16:04:17.882Z",
-  "lastSync": "2025-10-20T16:04:17.882Z"
+  "exportDate": "2025-10-20T16:06:04.804Z",
+  "lastSync": "2025-10-20T16:06:04.804Z"
 }

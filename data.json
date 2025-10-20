@@ -209,9 +209,19 @@
       "amount": 3700,
       "description": "Соль",
       "createdAt": "2025-10-19T20:10:42.416Z"
+    },
+    {
+      "id": "1760976155947",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "self35",
+      "payment": "chingiz_cash_self",
+      "amount": 1000,
+      "description": "СМСцентр",
+      "createdAt": "2025-10-20T16:02:35.947Z"
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T16:01:23.322Z",
-  "lastSync": "2025-10-20T16:01:23.322Z"
+  "exportDate": "2025-10-20T16:02:36.382Z",
+  "lastSync": "2025-10-20T16:02:36.382Z"
 }

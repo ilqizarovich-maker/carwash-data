@@ -219,9 +219,19 @@
       "amount": 1000,
       "description": "СМСцентр",
       "createdAt": "2025-10-20T16:02:35.947Z"
+    },
+    {
+      "id": "1760976257454",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 54000.04,
+      "description": "Электроэнергия от 13.10",
+      "createdAt": "2025-10-20T16:04:17.454Z"
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T16:02:36.382Z",
-  "lastSync": "2025-10-20T16:02:36.382Z"
+  "exportDate": "2025-10-20T16:04:17.882Z",
+  "lastSync": "2025-10-20T16:04:17.882Z"
 }

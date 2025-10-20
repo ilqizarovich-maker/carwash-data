@@ -181,6 +181,16 @@
       "createdAt": "2025-10-20T16:04:17.454Z"
     },
     {
+      "id": "1760984166176",
+      "date": "2025-10-14",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 10349.1,
+      "description": "14,15.10",
+      "createdAt": "2025-10-20T18:16:06.176Z"
+    },
+    {
       "id": "1760976364338",
       "date": "2025-10-13",
       "type": "expense",
@@ -191,6 +201,26 @@
       "createdAt": "2025-10-20T16:06:04.338Z"
     },
     {
+      "id": "1760984056909",
+      "date": "2025-10-13",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 3526.36,
+      "description": "13.10",
+      "createdAt": "2025-10-20T18:14:16.909Z"
+    },
+    {
+      "id": "1760984013332",
+      "date": "2025-10-12",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 3320.7,
+      "description": "12.10",
+      "createdAt": "2025-10-20T18:13:33.332Z"
+    },
+    {
       "id": "1760904305996",
       "date": "2025-10-11",
       "type": "expense",
@@ -199,6 +229,16 @@
       "amount": 5158.7,
       "description": "Химия ИПГайфуллин",
       "createdAt": "2025-10-19T20:05:05.996Z"
+    },
+    {
+      "id": "1760983975976",
+      "date": "2025-10-11",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 17909.04,
+      "description": "11.10",
+      "createdAt": "2025-10-20T18:12:55.976Z"
     },
     {
       "id": "1760904289573",
@@ -229,6 +269,26 @@
       "amount": 3702,
       "description": "Воск 2 канистры. Заказ с озон.",
       "createdAt": "2025-10-20T16:08:27.810Z"
+    },
+    {
+      "id": "1760983938421",
+      "date": "2025-10-10",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 12384.38,
+      "description": "10.10",
+      "createdAt": "2025-10-20T18:12:18.421Z"
+    },
+    {
+      "id": "1760983835661",
+      "date": "2025-10-09",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 9247.42,
+      "description": "09.10",
+      "createdAt": "2025-10-20T18:10:35.661Z"
     },
     {
       "id": "1760910540972",
@@ -352,6 +412,6 @@
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T18:06:09.137Z",
-  "lastSync": "2025-10-20T18:06:09.137Z"
+  "exportDate": "2025-10-20T18:20:04.808Z",
+  "lastSync": "2025-10-20T18:20:04.808Z"
 }

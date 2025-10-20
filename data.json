@@ -151,6 +151,16 @@
       "createdAt": "2025-10-19T20:03:50.712Z"
     },
     {
+      "id": "1760976019934",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 16524,
+      "description": "Химия ИП Махнина",
+      "createdAt": "2025-10-20T16:00:19.934Z"
+    },
+    {
       "id": "1760904305996",
       "date": "2025-10-11",
       "type": "expense",
@@ -202,6 +212,6 @@
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T15:56:04.432Z",
-  "lastSync": "2025-10-20T15:56:04.432Z"
+  "exportDate": "2025-10-20T16:00:20.407Z",
+  "lastSync": "2025-10-20T16:00:20.407Z"
 }

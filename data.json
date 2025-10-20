@@ -239,9 +239,19 @@
       "amount": 35888,
       "description": "Электроэнергия 01.10",
       "createdAt": "2025-10-20T16:06:04.338Z"
+    },
+    {
+      "id": "1760976507810",
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 3702,
+      "description": "Воск 2 канистры. Заказ с озон.",
+      "createdAt": "2025-10-20T16:08:27.810Z"
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T16:06:04.804Z",
-  "lastSync": "2025-10-20T16:06:04.804Z"
+  "exportDate": "2025-10-20T16:08:28.280Z",
+  "lastSync": "2025-10-20T16:08:28.280Z"
 }

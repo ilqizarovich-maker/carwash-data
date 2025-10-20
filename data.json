@@ -271,6 +271,16 @@
       "createdAt": "2025-10-20T16:14:59.378Z"
     },
     {
+      "id": "1760981084409",
+      "date": "2025-10-02",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 7880.52,
+      "description": "02.10",
+      "createdAt": "2025-10-20T17:24:44.409Z"
+    },
+    {
       "id": "1760980578662",
       "date": "2025-10-01",
       "type": "income",
@@ -282,6 +292,6 @@
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T17:16:19.234Z",
-  "lastSync": "2025-10-20T17:16:19.234Z"
+  "exportDate": "2025-10-20T17:24:44.535Z",
+  "lastSync": "2025-10-20T17:24:44.535Z"
 }

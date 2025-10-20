@@ -261,26 +261,6 @@
       "createdAt": "2025-10-20T16:24:30.022Z"
     },
     {
-      "id": "1760981951024",
-      "date": "2025-10-06",
-      "type": "income",
-      "category": "self35",
-      "payment": "sultan_sber_cash",
-      "amount": 7450.05,
-      "description": "06.10",
-      "createdAt": "2025-10-20T17:39:11.024Z"
-    },
-    {
-      "id": "1760981692484",
-      "date": "2025-10-05",
-      "type": "income",
-      "category": "self35",
-      "payment": "sultan_sber_cash",
-      "amount": 10692.9,
-      "description": "05.10",
-      "createdAt": "2025-10-20T17:34:52.484Z"
-    },
-    {
       "id": "1760976899378",
       "date": "2025-10-04",
       "type": "expense",
@@ -289,16 +269,6 @@
       "amount": 706,
       "description": "Средство для очистки тепловентиляторов Озон",
       "createdAt": "2025-10-20T16:14:59.378Z"
-    },
-    {
-      "id": "1760981627391",
-      "date": "2025-10-04",
-      "type": "income",
-      "category": "self35",
-      "payment": "sultan_sber_cash",
-      "amount": 14094.18,
-      "description": "04.10",
-      "createdAt": "2025-10-20T17:33:47.391Z"
     },
     {
       "id": "1760981487404",
@@ -329,9 +299,39 @@
       "amount": 8291.54,
       "description": "01.10",
       "createdAt": "2025-10-20T17:16:18.662Z"
+    },
+    {
+      "id": "1760981627391",
+      "date": "2025-10-04",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 14094.18,
+      "description": "04.10",
+      "createdAt": "2025-10-20T17:33:47.391Z"
+    },
+    {
+      "id": "1760981692484",
+      "date": "2025-10-05",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 10692.9,
+      "description": "05.10",
+      "createdAt": "2025-10-20T17:34:52.484Z"
+    },
+    {
+      "id": "1760981951024",
+      "date": "2025-10-06",
+      "type": "income",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 7450.05,
+      "description": "06.10",
+      "createdAt": "2025-10-20T17:39:11.024Z"
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T17:44:30.051Z",
-  "lastSync": "2025-10-20T17:44:30.051Z"
+  "exportDate": "2025-10-20T17:45:37.875Z",
+  "lastSync": "2025-10-20T17:45:37.875Z"
 }

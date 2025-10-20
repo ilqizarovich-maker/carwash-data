@@ -161,56 +161,6 @@
       "createdAt": "2025-10-20T16:00:19.934Z"
     },
     {
-      "id": "1760904305996",
-      "date": "2025-10-11",
-      "type": "expense",
-      "category": "detailing",
-      "payment": "sultan_sber",
-      "amount": 5158.7,
-      "description": "Химия ИПГайфуллин",
-      "createdAt": "2025-10-19T20:05:05.996Z"
-    },
-    {
-      "id": "1760904289573",
-      "date": "2025-10-10",
-      "type": "expense",
-      "category": "detailing",
-      "payment": "sultan_sber",
-      "amount": 1282,
-      "description": "Химия Вортекс",
-      "createdAt": "2025-10-19T20:04:49.573Z"
-    },
-    {
-      "id": "1760904624276",
-      "date": "2025-10-10",
-      "type": "expense",
-      "category": "self12",
-      "payment": "chingiz_cash_self",
-      "amount": 1000,
-      "description": "СМСцентр",
-      "createdAt": "2025-10-19T20:10:24.276Z"
-    },
-    {
-      "id": "1760910540972",
-      "date": "2025-10-08",
-      "type": "expense",
-      "category": "self35",
-      "payment": "chingiz_cash_self",
-      "amount": 4500,
-      "description": "Ремонт ворот 5 бокс",
-      "createdAt": "2025-10-19T21:49:00.972Z"
-    },
-    {
-      "id": "1760904642416",
-      "date": "2025-10-07",
-      "type": "expense",
-      "category": "self12",
-      "payment": "chingiz_cash_self",
-      "amount": 3700,
-      "description": "Соль",
-      "createdAt": "2025-10-19T20:10:42.416Z"
-    },
-    {
       "id": "1760976155947",
       "date": "2025-10-14",
       "type": "expense",
@@ -241,6 +191,36 @@
       "createdAt": "2025-10-20T16:06:04.338Z"
     },
     {
+      "id": "1760904305996",
+      "date": "2025-10-11",
+      "type": "expense",
+      "category": "detailing",
+      "payment": "sultan_sber",
+      "amount": 5158.7,
+      "description": "Химия ИПГайфуллин",
+      "createdAt": "2025-10-19T20:05:05.996Z"
+    },
+    {
+      "id": "1760904289573",
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "detailing",
+      "payment": "sultan_sber",
+      "amount": 1282,
+      "description": "Химия Вортекс",
+      "createdAt": "2025-10-19T20:04:49.573Z"
+    },
+    {
+      "id": "1760904624276",
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "self12",
+      "payment": "chingiz_cash_self",
+      "amount": 1000,
+      "description": "СМСцентр",
+      "createdAt": "2025-10-19T20:10:24.276Z"
+    },
+    {
       "id": "1760976507810",
       "date": "2025-10-10",
       "type": "expense",
@@ -249,9 +229,39 @@
       "amount": 3702,
       "description": "Воск 2 канистры. Заказ с озон.",
       "createdAt": "2025-10-20T16:08:27.810Z"
+    },
+    {
+      "id": "1760910540972",
+      "date": "2025-10-08",
+      "type": "expense",
+      "category": "self35",
+      "payment": "chingiz_cash_self",
+      "amount": 4500,
+      "description": "Ремонт ворот 5 бокс",
+      "createdAt": "2025-10-19T21:49:00.972Z"
+    },
+    {
+      "id": "1760904642416",
+      "date": "2025-10-07",
+      "type": "expense",
+      "category": "self12",
+      "payment": "chingiz_cash_self",
+      "amount": 3700,
+      "description": "Соль",
+      "createdAt": "2025-10-19T20:10:42.416Z"
+    },
+    {
+      "id": "1760976899378",
+      "date": "2025-10-04",
+      "type": "expense",
+      "category": "self35",
+      "payment": "sultan_sber_cash",
+      "amount": 706,
+      "description": "Средство для очистки тепловентиляторов Озон",
+      "createdAt": "2025-10-20T16:14:59.378Z"
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-20T16:11:11.425Z",
-  "lastSync": "2025-10-20T16:11:11.425Z"
+  "exportDate": "2025-10-20T16:14:59.823Z",
+  "lastSync": "2025-10-20T16:14:59.823Z"
 }

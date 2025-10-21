@@ -27,8 +27,9 @@
       "category": "detailing",
       "payment": "sultan_sber",
       "amount": 17010,
-      "description": "Смарикомплекс",
-      "createdAt": "2025-10-19T20:05:27.356Z"
+      "description": "Химия Смарткомплекс",
+      "createdAt": "2025-10-19T20:05:27.356Z",
+      "manualExpenseCategory": ""
     },
     {
       "id": "1760904541252",
@@ -57,8 +58,9 @@
       "category": "self12",
       "payment": "sultan_sber_cash",
       "amount": 9270,
-      "description": "Смарикомплекс",
-      "createdAt": "2025-10-19T20:10:04.540Z"
+      "description": "Химия Смарткомплекс",
+      "createdAt": "2025-10-19T20:10:04.540Z",
+      "manualExpenseCategory": ""
     },
     {
       "id": "1760904674220",
@@ -67,8 +69,9 @@
       "category": "self12",
       "payment": "chingiz_cash_self",
       "amount": 11250,
-      "description": "Оператор",
-      "createdAt": "2025-10-19T20:11:14.220Z"
+      "description": "Зарплата оператор",
+      "createdAt": "2025-10-19T20:11:14.220Z",
+      "manualExpenseCategory": ""
     },
     {
       "id": "1760906060517",
@@ -77,8 +80,9 @@
       "category": "self35",
       "payment": "chingiz_cash_self",
       "amount": 11250,
-      "description": "оператор",
-      "createdAt": "2025-10-19T20:34:20.517Z"
+      "description": "Зарплата оператор",
+      "createdAt": "2025-10-19T20:34:20.517Z",
+      "manualExpenseCategory": ""
     },
     {
       "id": "1760906137032",
@@ -97,8 +101,9 @@
       "category": "self12",
       "payment": "chingiz_cash_self",
       "amount": 12500,
-      "description": "ЗП уборка территории",
-      "createdAt": "2025-10-19T20:36:50.396Z"
+      "description": "Зарплата уборка территории",
+      "createdAt": "2025-10-19T20:36:50.396Z",
+      "manualExpenseCategory": ""
     },
     {
       "id": "1760904119824",
@@ -127,8 +132,9 @@
       "category": "detailing",
       "payment": "chingiz_cash",
       "amount": 60150,
-      "description": "ЗП Мойщики",
-      "createdAt": "2025-10-19T20:03:01.260Z"
+      "description": "Зарплата мойщики",
+      "createdAt": "2025-10-19T20:03:01.260Z",
+      "manualExpenseCategory": ""
     },
     {
       "id": "1760904209024",
@@ -137,8 +143,9 @@
       "category": "detailing",
       "payment": "chingiz_cash",
       "amount": 10000,
-      "description": "ЗП менеджер",
-      "createdAt": "2025-10-19T20:03:29.024Z"
+      "description": "Зарплата менеджер",
+      "createdAt": "2025-10-19T20:03:29.024Z",
+      "manualExpenseCategory": ""
     },
     {
       "id": "1760904230712",
@@ -147,8 +154,9 @@
       "category": "detailing",
       "payment": "chingiz_card",
       "amount": 30000,
-      "description": "ЗП Администратор",
-      "createdAt": "2025-10-19T20:03:50.712Z"
+      "description": "Зарплата администратор",
+      "createdAt": "2025-10-19T20:03:50.712Z",
+      "manualExpenseCategory": ""
     },
     {
       "id": "1760976019934",
@@ -227,8 +235,9 @@
       "category": "detailing",
       "payment": "sultan_sber",
       "amount": 5158.7,
-      "description": "Химия ИПГайфуллин",
-      "createdAt": "2025-10-19T20:05:05.996Z"
+      "description": "Химия ИП Гайфуллин",
+      "createdAt": "2025-10-19T20:05:05.996Z",
+      "manualExpenseCategory": ""
     },
     {
       "id": "1760983975976",
@@ -317,8 +326,9 @@
       "category": "self12",
       "payment": "chingiz_cash_self",
       "amount": 3700,
-      "description": "Соль",
-      "createdAt": "2025-10-19T20:10:42.416Z"
+      "description": "Соль таблнтированная",
+      "createdAt": "2025-10-19T20:10:42.416Z",
+      "manualExpenseCategory": ""
     },
     {
       "id": "1760983004749",
@@ -412,6 +422,6 @@
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-21T13:09:45.728Z",
-  "lastSync": "2025-10-21T13:09:45.729Z"
+  "exportDate": "2025-10-21T13:13:56.557Z",
+  "lastSync": "2025-10-21T13:13:56.557Z"
 }

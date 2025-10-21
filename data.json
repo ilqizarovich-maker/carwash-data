@@ -227,7 +227,7 @@
       "category": "detailing",
       "payment": "sultan_sber",
       "amount": 5158.7,
-      "description": "Химия ИПГайфуллин",
+      "description": "Химия ИП Гайфуллин",
       "createdAt": "2025-10-19T20:05:05.996Z"
     },
     {
@@ -412,6 +412,6 @@
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-21T08:33:13.617Z",
-  "lastSync": "2025-10-21T08:33:13.617Z"
+  "exportDate": "2025-10-21T08:36:15.877Z",
+  "lastSync": "2025-10-21T08:36:15.877Z"
 }

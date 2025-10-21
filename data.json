@@ -27,7 +27,7 @@
       "category": "detailing",
       "payment": "sultan_sber",
       "amount": 17010,
-      "description": "Смарикомплекс",
+      "description": "Химия Смарткомплекс",
       "createdAt": "2025-10-19T20:05:27.356Z"
     },
     {
@@ -412,6 +412,6 @@
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-21T08:24:11.648Z",
-  "lastSync": "2025-10-21T08:24:11.648Z"
+  "exportDate": "2025-10-21T08:31:29.687Z",
+  "lastSync": "2025-10-21T08:31:29.687Z"
 }

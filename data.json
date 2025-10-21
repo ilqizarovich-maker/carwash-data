@@ -2,7 +2,7 @@
   "transactions": [
     {
       "id": "1760904097916",
-      "date": "2025-10-15",
+      "date": "2025-10-14",
       "type": "income",
       "category": "detailing",
       "payment": "sultan_akbars",
@@ -27,7 +27,7 @@
       "category": "detailing",
       "payment": "sultan_sber",
       "amount": 17010,
-      "description": "Химия Смарткомплекс",
+      "description": "Смарикомплекс",
       "createdAt": "2025-10-19T20:05:27.356Z"
     },
     {
@@ -67,7 +67,7 @@
       "category": "self12",
       "payment": "chingiz_cash_self",
       "amount": 11250,
-      "description": "Зарплата оператор",
+      "description": "Оператор",
       "createdAt": "2025-10-19T20:11:14.220Z"
     },
     {
@@ -77,7 +77,7 @@
       "category": "self35",
       "payment": "chingiz_cash_self",
       "amount": 11250,
-      "description": "Зарплата оператор",
+      "description": "оператор",
       "createdAt": "2025-10-19T20:34:20.517Z"
     },
     {
@@ -137,7 +137,7 @@
       "category": "detailing",
       "payment": "chingiz_cash",
       "amount": 10000,
-      "description": "Зарплата менеджер",
+      "description": "ЗП менеджер",
       "createdAt": "2025-10-19T20:03:29.024Z"
     },
     {
@@ -227,7 +227,7 @@
       "category": "detailing",
       "payment": "sultan_sber",
       "amount": 5158.7,
-      "description": "Химия ИП Гайфуллин",
+      "description": "Химия ИПГайфуллин",
       "createdAt": "2025-10-19T20:05:05.996Z"
     },
     {
@@ -412,6 +412,6 @@
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-21T09:29:44.202Z",
-  "lastSync": "2025-10-21T09:29:44.202Z"
+  "exportDate": "2025-10-21T13:09:45.728Z",
+  "lastSync": "2025-10-21T13:09:45.729Z"
 }

@@ -2,7 +2,7 @@
   "transactions": [
     {
       "id": "1760904097916",
-      "date": "2025-10-14",
+      "date": "2025-10-15",
       "type": "income",
       "category": "detailing",
       "payment": "sultan_akbars",
@@ -412,6 +412,6 @@
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-21T08:58:12.593Z",
-  "lastSync": "2025-10-21T08:58:12.593Z"
+  "exportDate": "2025-10-21T09:29:44.202Z",
+  "lastSync": "2025-10-21T09:29:44.202Z"
 }

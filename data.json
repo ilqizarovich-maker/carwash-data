@@ -67,7 +67,7 @@
       "category": "self12",
       "payment": "chingiz_cash_self",
       "amount": 11250,
-      "description": "Оператор",
+      "description": "Зарплата оператор",
       "createdAt": "2025-10-19T20:11:14.220Z"
     },
     {
@@ -412,6 +412,6 @@
     }
   ],
   "reserveBalance": 0,
-  "exportDate": "2025-10-21T08:36:15.877Z",
-  "lastSync": "2025-10-21T08:36:15.877Z"
+  "exportDate": "2025-10-21T08:38:38.568Z",
+  "lastSync": "2025-10-21T08:38:38.568Z"
 }
